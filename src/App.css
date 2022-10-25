@@ -43,3 +43,21 @@
   border-radius: 10px;
   margin-top: 20px;
 }
+
+.nav-link.active {
+  background-color: #e3ebf7 !important;
+  color: #476ba2 !important;
+}
+
+.nav-link {
+  background-color: #f7f7f7 !important;
+  color: #8d8d8d !important;
+  margin: 0 10px;
+  padding: 14px 24px;
+  /* font-size: 20px !important; */
+}
+
+button[type="submit"] {
+  background-color: #3b71ca !important;
+  width: 100%;
+}

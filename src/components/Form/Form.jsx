@@ -4,7 +4,7 @@ export default function Form() {
   return (
     <React.Fragment>
       <div className="container">
-        <div className="row text-center justify-content-center w-50 form-container">
+        <div className="row text-center justify-content-center w-25 form-container">
           <ul
             className="nav nav-pills my-3 justify-content-center"
             id="pills-tab"
